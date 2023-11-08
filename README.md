@@ -1,2 +1,2 @@
 # diary
-ShigeruIto's technical daily events diary
+ShigeruIto's technical daily diary
